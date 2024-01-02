@@ -32,7 +32,7 @@
             <h3>Front-End Developer | UIUX Designer | Graphic Designer</h3>
             <div class="homebtn">
                 <a href="#contact" class="hireme">Hire Me!</a>
-                <a href="SathiRathod.pdf" class="checkcv" download="Saathi_Rathod_CV.pdf">
+                <a href="images/SathiRathod.pdf" class="checkcv" download="Saathi_Rathod_CV.pdf">
                     Download CV
                     <div class="dwn">
                         <i class="fas fa-download"></i>
